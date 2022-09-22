@@ -28,6 +28,7 @@ grs-dbankcloud.com-dre.appacc.dbankedge.net
 grs-dbankcloud-com-dre.appacc-region.dbankedge.net
 grs-dbankcloud.com-dre.appacc-region.dbankedge.net
 grs.dbankcloud.eu
+grs.platform.dbankcloud.ru
 hinative.com
 huaweihigame.com
 hwid-dra.platform.hicloud.com

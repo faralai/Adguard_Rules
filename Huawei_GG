@@ -1,9 +1,11 @@
+
 achievement-dre.things.hicloud.com
 adx-dre-op-hicloud-com-dre.appacc.dbankedge.net
 adx-dre.op.hicloud.com
 adx-dre.op.hicloud.com.edgekey.net
 adxcreative-dra.dbankcdn.com
 api-dra.music.hicloud.com
+api-dre.music.hicloud.com
 api-dre.theme.dbankcloud.com
 api.cloud.hicloud.com
 api.cloud.huawei.com
@@ -11,6 +13,7 @@ apigw-de.huawei.com
 appdlc-dre.hispace.dbankcloud.com
 assets-res-ge-c.huawei.com
 assets-res-sg.c.huawei.com
+assistant-dre.op.hicloud.com
 cbg.huawei.com
 ccpce-de.consumer.huawei.com
 ccpce-sg.consumer.huawei.com
@@ -18,9 +21,11 @@ cdn.hinative.com
 cloudphoto-dre.cloud.dbankcloud.com
 cloudrom-global.emui.dbankcloud.com
 communityfile-drcn.op.hicloud.com
+conf-dre.cloud.hicloud.com
 configdownload-dra.dbankcdn.com
 configserver-dra.platform.hicloud.com
 configserver-dre.platform.hicloud.com
+connect-dre.hispace.hicloud.com
 connectivitycheck.cbg-app.huawei.com
 consumer-tkbdownload.huawei.com
 coupon-dra.iap.hicloud.com
@@ -47,6 +52,7 @@ grs.dbankcloud.eu
 grs.platform.dbankcloud.ru
 hag-dre.ai.hicloud.com
 healthactivity-dre.things.hicloud.com
+healthcommon-dre.things.hicloud.com
 healthdeviceagent-dre.things.hicloud.com
 hinative.com
 httpdns.huaweicloud.com
@@ -69,7 +75,9 @@ id.cloud.huawei.com
 iforum-de.c.huawei.com
 logbak.hicloud.com
 logservice1.hicloud.com
+map-dre.platform.hicloud.com
 maptile-dre.dbankcdn.com
+messagecenter-dre.things.hicloud.com
 metrics1.data.hicloud.com
 metrics2.data.hicloud.com
 metrics3.data.hicloud.com
@@ -100,9 +108,12 @@ siteapi.cloud.huawei.com
 sns7.hicloud.com
 sp-8f237ea3.honzik.avcdn.net
 sp-8f237ea3.vps-v4.u.acvdn.net
+sportdata-dre.things.hicloud.com
 sportsuggest-dre.things.hicloud.com
 store-dre.hispace.dbankcloud.com
 store.hispace.hicloud.com
+supl.platform.hicloud.com
+terms7.hicloud.com
 terms-dre.platform.dbankcloud.com
 theme-dra.emui.hicloud.com
 tsms-dre-platform-dbankcloud-com-dre.appacc-region.dbankedge.net
@@ -110,9 +121,12 @@ tsms-dre-platform-dbankcloud-com-dre.appacc.dbankedge.net
 tsms-dre-platform-dbankcloud.com-dre.appacc-region.dbankedge.net
 tsms-dre-platform-dbankcloud.com-dre.appacc.dbankedge.net
 tsms-dre.platform.dbankcloud.com
+uc3.hispace.hicloud.com
 uc-dre.hispace.dbankcloud.com
 upfile5.hicloud.com
 upfile7.hicloud.com
+userk-eu.hicloud.com
 videocontent-dra.himovie.hicloud.com
 videoeditor-api-dre.cloud.huawei.com
 videoeditor-dre.hms.dbankcloud.com
+weather-dre.music.hicloud.com

@@ -1,9 +1,4 @@
-
 achievement-dre.things.hicloud.com
-adx-dre-op-hicloud-com-dre.appacc.dbankedge.net
-adx-dre.op.hicloud.com
-adx-dre.op.hicloud.com.edgekey.net
-adxcreative-dra.dbankcdn.com
 api-dra.music.hicloud.com
 api-dre.music.hicloud.com
 api-dre.theme.dbankcloud.com
@@ -32,7 +27,6 @@ coupon-dra.iap.hicloud.com
 coupon-dre.iap.cloud.huawei.eu
 cs02-pps-drcn.dbankcdn.com.c.cdnhwc1.com
 cs02-pps-drcn.dbankcdn.com.cdn.dnsv1.com
-datacollector-dre.dt.hicloud.com
 dnkeeper.hicloud.com
 dnkeeper.platform.dbankcloud.cn
 dsa-sslv6.hispace.hicloud.com.edgekey.net
@@ -73,18 +67,9 @@ id7.cloud.huawei.comt
 id-dre.dbankcdn.com
 id.cloud.huawei.com
 iforum-de.c.huawei.com
-logbak.hicloud.com
-logservice1.hicloud.com
 map-dre.platform.hicloud.com
 maptile-dre.dbankcdn.com
 messagecenter-dre.things.hicloud.com
-metrics1.data.hicloud.com
-metrics2.data.hicloud.com
-metrics3.data.hicloud.com
-metrics4.data.hicloud.com
-metrics5.data.hicloud.com
-metrics-dra.dt.hicloud.com
-metrics.data.hicloud.com
 oauth-login-dre.platform.dbankcloud.com
 openlocation-dre.platform.dbankcloud.com
 operationposition-dre.things.dbankcloud.com

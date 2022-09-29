@@ -16,3 +16,10 @@ resolver.gslb.mi-idc.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 account.xiaomi.com
+api.g.micloud.xiaomi.net
+api.account.xiaomi.com
+gallerysearchapi.micloud.xiaomi.net
+id.video.intl.xiaomi.com
+api.video.intl.xiaomi.com
+fr.resolver.msg.global.xiaomi.net
+weatherapi.intl.xiaomi.com

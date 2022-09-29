@@ -19,24 +19,17 @@ amplify.outbrain.com
 answersstaticfilecdnv2.azureedge.net
 api-forums.nvidia.com
 api-secure.solvemedia.com
-api.device.xiaomi.net
 api.eu-west-1.aiv-delivery.net
-api.gallery.intl.miui.com
 api.github.com
 api.hcaptcha.com
 api.ing.ingdirect.es
 api.invidious.io
 api.io.mi.com
 api.ivoox.com
-api.micloud.xiaomi.net
-api.miwifi.com
 api.mixpanel.com
 api.nuage01.scaleway.com
 api.onesignal.com
 api.scaleway.com
-api.sec.intl.miui.com
-api.sec.miui.com
-api.setting.intl.miui.com
 api.sumbroker.es
 api.teams.cloudflare.com
 api.twitch.tv
@@ -45,7 +38,6 @@ api.volotea.com
 apis.google.com
 apiservices.krxd.net
 app.directededge.com
-app.market.xiaomi.com
 app.mixcloud.com
 app.plex.tv
 asset.mediamarkt.es
@@ -54,7 +46,6 @@ assets.mediamarkt.de
 assets.volotea.com
 audio3.mixcloud.com
 auth-session-caching.wetransfer.net
-auth.be.sec.miui.com
 aweucn1.advanced-web-analytics.com
 b.cdnst.net
 backgrounds.wetransfer.net
@@ -110,7 +101,6 @@ click.oneplus.com
 click.pstmrk.it
 cloudflareinsights.com
 code.jquery.com
-connect.rom.miui.com
 consent-pref.trustarc.com
 consent.trustarc.com
 console.scaleway.com
@@ -162,7 +152,6 @@ eu.static.mega.co.nz
 evs.nuage01.scaleway.com
 fc-lc.com
 file.myqcloud.com
-find.api.micloud.xiaomi.net
 firebase.googleapis.com
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
@@ -170,7 +159,6 @@ fls-eu.amazon.es
 fonts.gstatic.com
 forms.soundestlink.com
 g.api.mega.co.nz
-galleryapi.micloud.xiaomi.net
 gates.cloudflare.com
 geoip-js.com
 geotrust.com
@@ -237,7 +225,6 @@ js.maxmind.com
 js.monitor.azure.com
 js.stripe.com
 json.volotea.com
-jupiter.intl.sys.miui.com
 kds.t17service.com
 keepa.com
 keeplinks.org
@@ -301,9 +288,6 @@ raw.githubusercontent.com
 recaptcha.net
 redditstatic.com
 reinodejuguetes.com
-resolver.gslb.mi-idc.com
-resolver.msg.global.xiaomi.net
-resolver.msg.xiaomi.net
 resources.ingdirect.es
 retcode-us-west-1.arms.aliyuncs.com
 roaringapps.firebaseio.com

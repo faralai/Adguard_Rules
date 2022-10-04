@@ -27,3 +27,8 @@ processor.smartcamera.api.io.mi.com
 business.smartcamera.api.io.mi.com
 .api.xiaomi.com
 g.galleryapi.micloud.xiaomi.net
+statusapi.micloud.xiaomi.net
+us.noteapi.micloud.xiaomi.net
+us.contactapi.micloud.xiaomi.net
+us.micardapi.micloud.xiaomi.net
+pdc.micloud.xiaomi.net

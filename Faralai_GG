@@ -1,9 +1,8 @@
-faradns.net
-busca.faralai.net
-sync.faralai.net
+
 1fichier.com
 24c015223e3f4794a67a80ebe5133eea-741b2a0bd043.cdn.forter.com
 741b2a0bd043.cdn4.forter.com
+.googleapis.com
 a.fsdn.com
 accounts.google.com
 acs.aliexpress.com
@@ -63,6 +62,7 @@ book.volotea.com
 bqeyz.es.aliexpress.com
 brightaudio.es.aliexpress.com
 bufferbloat.waveform.com
+busca.faralai.net
 c0.wp.com
 c.microsoft.com
 c.paypal.com
@@ -152,6 +152,7 @@ eu1-api.connectif.cloud
 eu2-api.connectif.cloud
 eu.static.mega.co.nz
 evs.nuage01.scaleway.com
+faradns.net
 fc-lc.com
 file.myqcloud.com
 firebase.googleapis.com
@@ -357,6 +358,7 @@ status.geotrust.com
 storeapi-eu.oneplus.com
 style.aliunicorn.com
 svht.tradedoubler.com
+sync.faralai.net
 t56.dslreports.com
 t58.dslreports.com
 t78.dslreports.com
@@ -404,4 +406,3 @@ ymg.teraboxcdn.com
 youtube.com
 zdstatic.speedtest.net
 zenaps.com
-.googleapis.com

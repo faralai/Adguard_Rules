@@ -1,12 +1,4 @@
-datacollector-dre.dt.dbankcloud.cn
-datacollector-dre.dt.hicloud.com
-tracker.datanoticias.prisasd.com
-rtlog22-normal-useast1a.tiktokv.com
-log22-normal-useast1a.tiktokv.com
-rtlog19-normal-useast1a.tiktokv.com
-log19-normal-useast1a.tiktokv.com
-logservice-dre.platform.dbankcloud.cn
-region1.analytics.google.com
+
 4593563.fls.doubleclick.net
 8230480.fls.doubleclick.net
 9098312.fls.doubleclick.net
@@ -77,6 +69,8 @@ csp-reporting.cloudflare.com
 cstatic.weborama.fr
 d2j042cj1421wi.cloudfront.net
 d3mzokty951c5w.cloudfront.net
+datacollector-dre.dt.dbankcloud.cn
+datacollector-dre.dt.hicloud.com
 denetsuk.com
 des.smartclip.net
 dibsemey.com
@@ -131,6 +125,9 @@ lataurir.com
 lephaush.net
 lib.getshogun.com
 ln.gamesrevenue.com
+log19-normal-useast1a.tiktokv.com
+log22-normal-useast1a.tiktokv.com
+logservice-dre.platform.dbankcloud.cn
 matomo.manjaro.org
 matomo.whvn.cc
 mc.yandex.ru
@@ -169,8 +166,11 @@ public.profitwell.com
 pubsub-edge.twitch.tv
 pubsub.googleapis.com.dlink
 reflectedintegrity.com
+region1.analytics.google.com
 resources.xg4ken.com
 rorgoops.com
+rtlog19-normal-useast1a.tiktokv.com
+rtlog22-normal-useast1a.tiktokv.com
 s2.adform.net
 s3.buysellads.com
 s7.addthis.com
@@ -208,6 +208,7 @@ theonlygames.com
 thoomsay.com
 tiwhaiph.net
 track.adform.net
+tracker.datanoticias.prisasd.com
 tracker.metricool.com
 tracking.ecompare24.com
 uwoaptee.com

@@ -1,12 +1,4 @@
-api.pcloud.com
-imap.gmail.com
-api16-core.tiktokv.com
-api22-core.tiktokv.com
-api.pinterest.com
-matrix-client.matrix.org
-utyautoupdate.synology.com
-utyupdate.synology.com
-chat.signal.org
+
 1fichier.com
 24c015223e3f4794a67a80ebe5133eea-741b2a0bd043.cdn.forter.com
 741b2a0bd043.cdn4.forter.com
@@ -29,6 +21,12 @@ alive.github.com
 amazon.es
 amplify.outbrain.com
 answersstaticfilecdnv2.azureedge.net
+api16-core.tiktokv.com
+api19-core-c-useast1a.tiktokv.com
+api19-normal-c-useast1a.tiktokv.com
+api22-core-c-useast1a.tiktokv.com
+api22-core.tiktokv.com
+api22-normal-c-useast1a.tiktokv.com
 api-forums.nvidia.com
 api-mifit-de2.huami.com
 api-secure.solvemedia.com
@@ -42,6 +40,8 @@ api.ivoox.com
 api.mixpanel.com
 api.nuage01.scaleway.com
 api.onesignal.com
+api.pcloud.com
+api.pinterest.com
 api.scaleway.com
 api.sumbroker.es
 api.teams.cloudflare.com
@@ -105,6 +105,7 @@ cdn.ywxi.net
 cdnjs.cloudflare.com
 cdnstatic.ventusky.com
 cdp.cloud.unity3d.com
+chat.signal.org
 chat.signal.org.home
 checkout.shopify.com
 checkout.shopifycs.com
@@ -229,6 +230,7 @@ id.kinguin.net
 id.oneplus.com
 images-eu.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
+imap.gmail.com
 imasdk.googleapis.com
 img.1fichier.com
 infodata2.bancsabadell.com
@@ -257,6 +259,7 @@ lighthouse.aliexpress.com
 live.sequracdn.com
 login.live.com
 maps.googleapis.com
+matrix-client.matrix.org
 maxcdn.bootstrapcdn.com
 media-cntw.nperf.com
 mem.gfx.ms
@@ -409,6 +412,8 @@ unagi.amazon.es
 unpkg.com
 us1-search.doofinder.com
 usher.ttvnw.net
+utyautoupdate.synology.com
+utyupdate.synology.com
 vendorlist.dmcdn.net
 video-edge-95cc11.pdx01.abs.hls.ttvnw.net
 volotea.com

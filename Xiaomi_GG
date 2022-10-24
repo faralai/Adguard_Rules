@@ -1,6 +1,4 @@
-
 # Reglas Buenas
-.api.xiaomi.com
 account.xiaomi.com
 api-mifit-de2.huami.com
 api.account.xiaomi.com
@@ -13,6 +11,7 @@ api.sec.intl.miui.com
 api.sec.miui.com
 api.setting.intl.miui.com
 api.video.intl.xiaomi.com
+api.xiaomi.com
 app.market.xiaomi.com
 auth.be.sec.miui.com
 business.smartcamera.api.io.mi.com

@@ -17,3 +17,6 @@ metrics3.data.hicloud.com
 metrics4.data.hicloud.com
 metrics5.data.hicloud.com
 metrics-dra.dt.hicloud.com
+||metrics-dre.dt.dbankcloud.cn^$important
+||metrics.dt.dbankcloud.cn^$important
+||metrics6.dt.hicloud.com^$important

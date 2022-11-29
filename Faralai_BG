@@ -1,8 +1,13 @@
-@@||autotest.dreame.tech^$important
-@@||adv.sec.intl.miui.com^$important
-@@||teams.events.data.microsoft.com^$important
-@@||googleads.g.doubleclick.net^$important
-@@||tracking.intl.miui.com^$important
+||autotest.dreame.tech^$important
+||adv.sec.intl.miui.com^$important
+||teams.events.data.microsoft.com^$important
+||googleads.g.doubleclick.net^$important
+||tracking.intl.miui.com^$important
+||device-metrics-us-2.amazon.com^$important
+||metrics-dre.dt.dbankcloud.cn^$important
+||metrics6.dt.hicloud.com^$important
+||metrics.dt.dbankcloud.cn^$important
+
 
 tmz.com
 matomo.darken.eu

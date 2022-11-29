@@ -14,7 +14,7 @@
 @@||update-dre.platform.hicloud.com^$important
 @@||connect-drcn.hispace.hicloud.com^$important
 @@||configserver-drex.platform.hicloud.com^$important
-
+@@||consumer.huawei.com^$important
 
 
 connectivitycheck.platform.hicloud.com

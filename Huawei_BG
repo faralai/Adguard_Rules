@@ -20,3 +20,5 @@ metrics-dra.dt.hicloud.com
 ||metrics-dre.dt.dbankcloud.cn^$important
 ||metrics.dt.dbankcloud.cn^$important
 ||metrics6.dt.hicloud.com^$important
+metrics1-drcn.dt.dbankcloud.cn^$important
+logservice.dbankcloud.cn^$important

@@ -3,3 +3,4 @@ api.ad.intl.xiaomi.com
 data.mistat.intl.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 *.ad.intl.xiaomi.com
+tracking.intl.miui.com^$important

@@ -507,6 +507,9 @@ alb.reddit.com^$important
 tr.iadsdk.apple.com^$important # Tienda Apple 
 amp-api-edge.apps.apple.com^
 slemula.fra-01.braze.eu^$important
-
+example.com^$important@@||connect.facebook.net^$important@@||mobileconfig.sascdn.com^$important@@||consumer-img.huawei.com^$important
+detectportal.firefox.com^$important
+platform.twitter.com^$important
+www2.deepl.com^$important
 
 

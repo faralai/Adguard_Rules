@@ -1,6 +1,8 @@
 # Firefox 
+a.teads.tv
 am-api.taboola.com^$important
 api.taboola.com^$important
+cdn.taboola.com
 cmp.quantcast.com^$important
 connect.facebook.net^$important
 contextual.media.net^$important
@@ -10,6 +12,8 @@ ml314.com^$important
 p.teads.tv^$important
 pagead2.googlesyndication.com^$important
 region1.google-analytics.com^$important
+sb.scorecardresearch.com
+securepubads.g.doubleclick.net
 stats.g.doubleclick.net^$important
 www.clarity.ms^$important
 www.facebook.com^$important

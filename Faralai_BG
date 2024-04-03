@@ -1,5 +1,6 @@
 # Firefox 
 www.google-analytics.com^$important
+stats.g.doubleclick.net^$important
 
 # Resto
 9b2f089e-dnsotls-ds.metric.gstatic.com^$important

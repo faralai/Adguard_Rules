@@ -10,7 +10,11 @@ api.taboola.com^$important
 am-api.taboola.com^$important
 images.taboola.com^$important
 www.googletagservices.com^$important
+p.teads.tv^$important
+js-agent.newrelic.com^$important
+www.facebook.com^$important
 
+#^$important
 # Resto
 9b2f089e-dnsotls-ds.metric.gstatic.com^$important
 62.100318181.2024-01-17.odns.m.dnsscan.top^$important

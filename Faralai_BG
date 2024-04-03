@@ -83,6 +83,7 @@ script.crazyegg.com
 shb.richaudience.com
 snap.licdn.com
 sp0.baidu.com
+
 static.ads-twitter.com
 static.criteo.net
 static.hotjar.com
@@ -98,6 +99,7 @@ www.dwin1.com
 www.facebook.com^$important
 www.google-analytics.com^$important
 www.googletagservices.com^$important
+www.statcounter.com
 zz.bdstatic.com
 
 

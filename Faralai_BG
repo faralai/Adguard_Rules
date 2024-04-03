@@ -5,10 +5,10 @@ pagead2.googlesyndication.com^$important
 contextual.media.net^$important
 www.clarity.ms^$important
 region1.google-analytics.com^$important
-cmp.quantcast.com
-api.taboola.com
-am-api.taboola.com
-images.taboola.com
+cmp.quantcast.com^$important
+api.taboola.com^$important
+am-api.taboola.com^$important
+images.taboola.com^$important
 
 # Resto
 9b2f089e-dnsotls-ds.metric.gstatic.com^$important

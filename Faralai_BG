@@ -15,6 +15,7 @@ api2.branch.io
 assets.zendesk.com
 bidder.criteo.com
 bootstrap.api.drift.com
+c.amazon-adsystem.com
 cdkever.zendesk.com
 cdkeys.zendesk.com
 cdn.amplitude.com
@@ -59,6 +60,7 @@ platform.twitter.com
 presence.api.drift.com
 prg.smartadserver.com
 px.ads.linkedin.com
+pub.admanmedia.com
 pub.doubleverify.com
 rc-widget-frame.js.driftt.com
 region1.google-analytics.com^$important

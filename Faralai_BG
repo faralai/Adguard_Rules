@@ -10,6 +10,7 @@ connect.facebook.net^$important
 content.zeotap.com
 contextual.media.net^$important
 d.la1-c2-lo2.salesforceliveagent.com
+downloads.mailchimp.com
 googleads.g.doubleclick.net
 images.taboola.com^$important
 intg.snapchat.com
@@ -17,9 +18,12 @@ js-agent.newrelic.com^$important
 ml314.com^$important
 p.teads.tv^$important
 pagead2.googlesyndication.com^$important
+platform-api.sharethis.com
 region1.google-analytics.com^$important
 sb.scorecardresearch.com
+script.crazyegg.com
 securepubads.g.doubleclick.net
+static.hotjar.com
 stats.g.doubleclick.net^$important
 www.clarity.ms^$important
 www.facebook.com^$important

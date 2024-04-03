@@ -1,19 +1,24 @@
 # Firefox 
-www.google-analytics.com^$important
-stats.g.doubleclick.net^$important
-pagead2.googlesyndication.com^$important
-contextual.media.net^$important
-www.clarity.ms^$important
-region1.google-analytics.com^$important
-cmp.quantcast.com^$important
-api.taboola.com^$important
 am-api.taboola.com^$important
-images.taboola.com^$important
-www.googletagservices.com^$important
-p.teads.tv^$important
-js-agent.newrelic.com^$important
-www.facebook.com^$important
+api.taboola.com^$important
+cmp.quantcast.com^$important
 connect.facebook.net^$important
+contextual.media.net^$important
+images.taboola.com^$important
+js-agent.newrelic.com^$important
+ml314.com^$important
+p.teads.tv^$important
+pagead2.googlesyndication.com^$important
+region1.google-analytics.com^$important
+stats.g.doubleclick.net^$important
+www.clarity.ms^$important
+www.facebook.com^$important
+www.google-analytics.com^$important
+www.googletagservices.com^$important
+
+
+
+
 #^$important
 # Resto
 9b2f089e-dnsotls-ds.metric.gstatic.com^$important

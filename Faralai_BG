@@ -25,10 +25,12 @@ js-agent.newrelic.com^$important
 mc.us20.list-manage.com
 mc.yandex.ru
 ml314.com^$important
+
 p.teads.tv^$important
 p.yotpo.com
 pagead2.googlesyndication.com^$important
 platform-api.sharethis.com
+platform.twitter.com
 region1.google-analytics.com^$important
 s.go-mpulse.net
 sb.scorecardresearch.com
@@ -38,6 +40,7 @@ script.hotjar.com
 static.criteo.net
 static.hotjar.com
 stats.g.doubleclick.net^$important
+syndication.twitter.com
 t.contentsquare.net
 us.creativecdn.com
 www.clarity.ms^$important

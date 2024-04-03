@@ -4,6 +4,11 @@ stats.g.doubleclick.net^$important
 pagead2.googlesyndication.com^$important
 contextual.media.net^$important
 www.clarity.ms^$important
+region1.google-analytics.com^$important
+cmp.quantcast.com
+api.taboola.com
+am-api.taboola.com
+images.taboola.com
 
 # Resto
 9b2f089e-dnsotls-ds.metric.gstatic.com^$important
@@ -159,7 +164,7 @@ clicknupload.click^$important
 clk.tradedoubler.com
 clognukes.com^$important
 clusterdamages.top^$important
-cmp.quantcast.com
+
 cno.jerkmate.com^$client='79.150.167.221'
 coconaunket.cfd^$important
 code.highcharts.com

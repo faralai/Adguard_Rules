@@ -9,6 +9,7 @@ cmp.quantcast.com^$important
 api.taboola.com^$important
 am-api.taboola.com^$important
 images.taboola.com^$important
+www.googletagservices.com^$important
 
 # Resto
 9b2f089e-dnsotls-ds.metric.gstatic.com^$important

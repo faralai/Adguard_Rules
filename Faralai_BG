@@ -15,6 +15,7 @@
 ||analytics.tiktok.com^
 ||api.taboola.com^
 ||api2.branch.io^
+||app.hubspot.com^
 ||app.slickstream.com^
 ||assets.zendesk.com^
 ||bidder.criteo.com^
@@ -72,12 +73,13 @@
 ||mc.yandex.ru^
 ||megustaleer.zendesk.com^
 ||metrics.api.drift.com^
-||ml314.com^$important^
+||metrics-fe-na1.hubspot.com^
+||ml314.com^
 ||munchkin.marketo.net^
 ||nexus.ensighten.com^
 ||odb.outbrain.com^
 ||onelinksmartscript.appsflyer.com^
-||p.teads.tv^$important^
+||p.teads.tv^
 ||vp.yotpo.com^
 ||pagead2.googlesyndication.com^
 ||platform-api.sharethis.com^

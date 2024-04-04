@@ -11,6 +11,7 @@
 ||ae.dmxleo.com^
 ||alb.reddit.com^
 ||am-api.taboola.com^
+||ats.rlcdn.com^
 ||analytics.tiktok.com^
 ||api.taboola.com^
 ||api2.branch.io^
@@ -51,8 +52,10 @@
 ||googleads.g.doubleclick.net^
 ||graph.facebook.com^
 ||gsp0.baidu.com^
+||gum.criteo.com^
 ||hbopenbid.pubmatic.com^
 ||hm.baidu.com^
+||ib.adnxs.com^
 ||id5-sync.com^
 ||images.taboola.com^
 ||intg.snapchat.com^
@@ -107,6 +110,7 @@
 ||syndication.twitter.com^
 ||t.contentsquare.net^
 ||tag.demandbase.com^
+||tagmanager.smartadserver.com^
 ||tags.expo9.exponential.com^
 ||track-eu1.hubspot.com^
 ||try.abtasty.com^
